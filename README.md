@@ -4,6 +4,25 @@
 > and an additional novice-participant with different demographics if possible.
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
+- [Usability Evaluation and Prototyping (again)](#usability-evaluation-and-prototyping-again)
+  - [Operating the Prototype](#operating-the-prototype)
+  - [Part A: Usability Evaluation](#part-a-usability-evaluation)
+    - [1. Brief Description of Participants](#1-brief-description-of-participants)
+      - [a. Description of Participant 1](#a-description-of-participant-1)
+      - [b. Description of Participant 2](#b-description-of-participant-2)
+    - [2. Evaluation Script](#2-evaluation-script)
+    - [3. Transcript](#3-transcript)
+      - [a. Transcript with Participant 1](#a-transcript-with-participant-1)
+      - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
+    - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
+      - [OBSERVATION 1](#observation-1)
+      - [OBSERVATION 2](#observation-2)
+      - [OBSERVATION 3](#observation-3)
+  - [Part B: Prototyping (again)](#part-b-prototyping-again)
+    - [Sketch](#sketch)
+    - [Design Rationale](#design-rationale)
+    - [High-Fidelity Interactive-Prototype](#high-fidelity-interactive-prototype)
+
 ## Operating the Prototype
 > Record a video (screen-recording is preferred) while you operating your prototype.
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
@@ -27,34 +46,33 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+ - The user is a female student of Business Management Department ITS.
+ - She has experience using a computer as she was do a homework.
+ - In her college assigment she used a website to login and do a homework or logout, but not too often.
+ - She rarely using file-sharing, the only file-sharing she knows is Google Drive, and she absolutely doesnt know about Zippyshare.
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ - The user is a male student of Biomedical Department ITS
+ - He has experience using a computer
+ - He often using file-sharing website for downloading game or movie.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+On this section, it will countain spesific instruction given to user. Bellow is the following instruction.
+1. Find out what ZippyShare is.
+2. Try Changing the Language to United States or other Language (no really change languange of prototype).
+3. Try to Register into the ZippyShare from current page.
+4. Try Login to ZippyShare.
+5. Try to upload file
+6. How do you feel
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
+On this section, it will contain transcript during usability evaluation. Bellow is the following transcript.
 
 #### a. Transcript with Participant 1
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+ 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
