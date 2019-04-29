@@ -24,11 +24,9 @@
     - [High-Fidelity Interactive-Prototype](#high-fidelity-interactive-prototype)
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
+On this section, I've provided an video about operating a Hi-Fi Prototype (https://projects.invisionapp.com/share/8XR80O32YHF#/screens/355899099). Presenting the ideal case on how to interact with the prototype from the beginning to the end.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[Prototype Video](https://youtu.be/pfo2V4kgTY8)
 
 ---
 
@@ -69,16 +67,80 @@ On this section, it will countain spesific instruction given to user. Bellow is 
 On this section, it will contain transcript during usability evaluation. Bellow is the following transcript.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+> **Y** => **You** \
+> **P** => **Participant**
+
+ 1. **Y**: Hai \**cencored*\*, kemaren terima kasih untuk wawancara sebelumnya, sekarang mau minta bantuan mu lagi untuk wawancara lagi, sekarang mirip mirip dengan sebelumnya, cuma sudah dengan ui yang lumayan baru.
+ 2. **P**: Oke shiapp.
+ 3. **Y**: Sama seperti kemarin, pakai *Zippyshare*, tetapi menggunakan prototype yang sudah saya design sebelumnya, sekarang coba buka prototypenya dengan URL ini => https://projects.invisionapp.com/share/8XR80O32YHF#/screens/355899099
+ 4. **P**: Oke sebentar.
+ 5. **Y**: Sudah? sekarang coba cari tahu apa itu Zippyshare, apapun yang kamu ketahui dari *home page* tersebut.\
+ (Setelah sekitar 2 menit)
+ 6. **P**: Ya karena sebuah website file sharing yang memudahkan dalam mengeshare sebuah file.
+ 7. **Y**: Oke, bagaimana menurutmu dengan *home page* tersebut ?
+ 8. **P**: Yaaa bagus bagus saja, better dari kemaren sih.
+ 9. **Y**: Sipsip, wkwkwk lanjut ya, temukan fitur ganti bahasa, contoh dari bahasa Inggris (UK) ke Inggris (US).
+ 10. **P**: Okee wait.\
+ (Setelah sekitar 1 menit, **P** bisa menemukan fitur yang dimaksud)
+ 11. **P**: Syudahh.
+ 12. **Y**: Oke, sekarang bagaimana menurutmu dengan fitur tersebut ? apakah sudah jelas ?
+ 13. **P**: Sudah jelas sih, secara keseluruhan bagus saja, sudah sesuai intuisi juga bagiku, cuma belum dicoba ke bahasa yang lain.
+ 14. **Y**: Oke sip, untuk bahasa lain belum diimplementasikan ke secara benar sih karena memang masih cuma prototype. Menurutmu bagaimana dengan peletakan dan lain lain ?
+ 15. **P**: Siplah. 
+ 16. **Y**: Oke, lanjut, sekarang coba untuk register dan login ke dalam website, tapi gausah isi username dan password mu pada web Zippyshare sebenarnya, langsung submit saja bisa.
+ 17. **P**: Okee wait..
+ (Setelah sekitar 2 menit, **P** mencoba kedua fitur register dan login)
+ 18. **Y**: Sip, bagaimana tentang kedua fitur tersebut ?
+ 19. **P**: Pertama sempat bingung sih karena gausah diisi kolomnya, tetapi secara alur nya bagus.
+ 20. **Y**: Oke sip, ada saran lain ?
+ 21. **P**: Kalau saran sih, kan register jadi besar gitu sementara login kecil banget kotakannya, disamakan antara register dan login biar baguss gitu.
+ 22. **Y**: Oke, saran yang bermanfaat, sekarang lanjut untuk upload file ke Zippyshare, tapi gausah upload file beneran, karena belum bisa, langsung tombol sama seperti login.
+ 23. **P**: Oke wait...
+ (Setelah sekitar 3 menit, **P** mencoba fitur tersebut)
+ 24. **Y**: Bagaimana ?
+ 25. **P**: Yaa lumayan sih, tapi gabisa upload file beneran :(.
+ 26. **Y**: Kalau feedbacknya gimana ?
+ 27. **P**: Yaa bagus sih, saya sukaa kaya langsung gitu.
+ 28. **Y**: Oke mantab. Bagaimana keseluruhan ?
+ 29. **P**: Overall bagus sih.
+ 30. **Y**: Oke sip, sudah selesaii, terima kasih.
+ 31. **P**: Sama sama.
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+> **Y** => **You** \
+> **P** => **Participant**
+
+ 1. **Y**: Hai \**cencored*\*, jadi kamu kan sudah terbiasa dengan file-sharing system seperti Zippyshare sebelumnya, maupun Google Drive untuk mendownload game, sekarang saya sudah menyediakan prototype Zippyshare yang mungkin baru, jadi ingin menanyai tentang pendapat saja sih tentang website ini, dalam bentuk wawancara sih ini.
+ 2. **P**: Yawes ndang
+ 3. **Y**: Hahaha, oke mulai ya sekarang coba buka prototypenya dengan URL ini => https://projects.invisionapp.com/share/8XR80O32YHF#/screens/355899099
+ 4. **P**: Oke sebentar.
+ 5. **Y**: Kalau sudah coba cari tahu apa itu Zippyshare, apapun yang kamu ketahui dari *home page* tersebut.\
+ (Setelah sekitar 1 menit)
+ 6. **P**: Ya sesuai dengan yang tertulis "*Sharing files has never been this easy*".
+ 7. **Y**: Oke deh, terus bagaimana menurutmu dengan *home page* tersebut pada Zippyshare tersebut ?
+ 8. **P**: Kalau aku sih bagus bagus saja, emang gabisa desain soalnya
+ 9. **Y**: Hahaha oke, lanjut ya, sekarang coba ganti bahasa, contoh dari bahasa Inggris (UK) ke Inggris (US).
+ 10. **P**: Hmmmm, \
+ (Setelah sekitar 1 menit, **P** bisa menemukan fitur yang dimaksud)
+ 11. **P**: Dah ketemu dan kuganti nih.
+ 12. **Y**: Sip deh, sekarang bagaimana menurutmu dengan fitur tersebut ? apakah sudah jelas ?
+ 13. **P**: Bagus bagus saja sih, kelihatan banget bahkan.
+ 14. **Y**: Benar juga, lanjut, sekarang coba untuk register dan login ke dalam website zippyshare, tapi gausah isi username dan password mu pada web Zippyshare sebenarnya, langsung submit saja bisa.
+ 15. **P**: Sebentarr
+ (Setelah sekitar 1 menit, **P** mencoba kedua fitur register dan login)
+ 16. **P**: Sudah nih, cuma klik klik aja kan
+ 17. **Y**: Yaa..., menurutmu bagaimana tentang kedua fitur tersebut ?
+ 18. **P**: Kalau boleh kasih saran nih, registernya dibuat kaya login saja biar ga bingung, tadi sempet kaya shock gitu pas register.
+ 19. **Y**: Oke makasih atas sarannyaa, sekarang lanjut ya, coba in upload file ke Zippyshare, tapi gausah upload file beneran, karena belum bisa, langsung tombol sama seperti login.
+ 20. **P**: Oke
+ (Setelah sekitar 2 menit, **P** mencoba fitur tersebut)
+ 21. **P**: Sudah nih.
+ 22. **Y**: Bagaimana menurutmu ?
+ 23. **P**: Yaa lumayan sih kalau jadi bagus, mirip mirip Google Drive menurutkuu, overall bagusslah.
+ 24. **Y**: Oke mantab. Bagaimana keseluruhan websitenya ?
+ 25. **P**: Dibilangi overall bagus kok haha.
+ 26. **Y**: Sip selesai, terima kasih banyak.
+ 27. **P**: Sama sama juga semoga bermanfaat.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
