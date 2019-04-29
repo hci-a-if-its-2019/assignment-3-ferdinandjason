@@ -16,8 +16,10 @@
       - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
     - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
       - [OBSERVATION 1 (Register Page)](#observation-1-register-page)
-      - [OBSERVATION 2](#observation-2)
-      - [OBSERVATION 3](#observation-3)
+      - [OBSERVATION 2 (Login Modal)](#observation-2-login-modal)
+      - [OBSERVATION 3 (Home Page)](#observation-3-home-page)
+      - [OBSERVATION 4 (File Upload)](#observation-4-file-upload)
+      - [OBSERVATION 5 (Change Languange Modal)](#observation-5-change-languange-modal)
   - [Part B: Prototyping (again)](#part-b-prototyping-again)
     - [Sketch](#sketch)
     - [Design Rationale](#design-rationale)
@@ -146,12 +148,12 @@ On this section, it will contain transcript during usability evaluation. Bellow 
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1 (Register Page)
-![Prototype Screen 1](img/observation.png)
+![Prototype Screen 1](img/observation1.png)
 
  - **Reference**: 
-   - [1#19] : First participant with number 19 dialog
+   - [1#19] : First participant with number 19 dialog \
       "Pertama sempat bingung sih karena gausah diisi kolomnya, terus registernya putih semua jadi kaget gitu tiba tiba terang, tetapi secara alur nya bagus."
-   - [2#18] : Second participant with number 18 dialog
+   - [2#18] : Second participant with number 18 dialog \
       "Kalau boleh kasih saran nih, registernya dibuat kaya login saja biar ga bingung, tadi sempet kaya shock gitu pas register."
  - **Feedback**: [2#18] Make Register feature using modal same as Login feature
  - **Incidence**: 
@@ -160,26 +162,59 @@ On this section, it will contain transcript during usability evaluation. Bellow 
  - **Reason**: 
    - [1#19] Homepage have a dark colors, and register have a very bright colors and make participant surprised.
    - [2#18] Make participant shocked because register feature have different size from login feature.
- - **Resolution**: Using suggestion from participant #2
+ - **Resolution**: **Using** suggestion from participant #2
    - [2#18] Make Register feature using modal same as Login feature 
  
-#### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+#### OBSERVATION 2 (Login Modal)
+![Prototype Screen 2](img/observation2.png)
 
  - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+   - [1#21] : First participant with number 21 dialog \
+    "Kalau saran sih, kan register jadi besar gitu sementara login kecil banget kotakannya, disamakan antara register dan login biar baguss gitu."
+ - **Feedback**: [1#21] Login feature is good
+ - **Incidence**: None
+ - **Reason**: None
+ - **Resolution**: None
  
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+#### OBSERVATION 3 (Home Page)
+![Prototype Screen 3](img/observation3.png)
 
  - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+  - [1#8] : First participant with number 8 dialog \
+    "Yaaa bagus bagus saja, better dari kemaren sih."
+  - [2#8] : Second participant with number 8 dialog \
+    "Kalau aku sih bagus bagus saja, emang gabisa desain soalnya"
+ - **Feedback**: [1#8] and [2#8] The feature is good
+ - **Incidence**: None
+ - **Reason**: None
+ - **Resolution**: None
+
+#### OBSERVATION 4 (File Upload)
+![Prototype Screen 4](img/observation4.png)
+![Prototype Screen 4](img/observation5.png)
+
+ - **Reference**:  
+  - [1#25] : First participant with number 25 dialog \
+    "Yaa lumayan sih, tapi gabisa upload file beneran :(."
+  - [2#23] : Second participant with number 23 dialog \
+    "Yaa lumayan sih kalau jadi bagus, mirip mirip Google Drive menurutkuu, overall bagusslah."
+ - **Feedback**: [1#25] and [2#23] The feature is good
+ - **Incidence**: None
+ - **Reason**: None
+ - **Resolution**: None
+
+#### OBSERVATION 5 (Change Languange Modal)
+![Prototype Screen 5](img/observation6.png)
+
+ - **Reference**:  
+  - [1#13] : First participant with number 13 dialog \
+    "Sudah jelas sih, secara keseluruhan bagus saja, sudah sesuai intuisi juga bagiku, cuma belum dicoba ke bahasa yang lain."
+  - [2#13] : Second participant with number 13 dialog \
+    "Bagus bagus saja sih, kelihatan banget bahkan"
+ - **Feedback**: [1#13] and [2#13] The feature is good
+ - **Incidence**: None
+ - **Reason**: None
+ - **Resolution**: None
 
  ---
 
