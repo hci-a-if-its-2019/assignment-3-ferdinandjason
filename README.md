@@ -15,7 +15,7 @@
       - [a. Transcript with Participant 1](#a-transcript-with-participant-1)
       - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
     - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
-      - [OBSERVATION 1](#observation-1)
+      - [OBSERVATION 1 (Register Page)](#observation-1-register-page)
       - [OBSERVATION 2](#observation-2)
       - [OBSERVATION 3](#observation-3)
   - [Part B: Prototyping (again)](#part-b-prototyping-again)
@@ -91,7 +91,7 @@ On this section, it will contain transcript during usability evaluation. Bellow 
  17. **P**: Okee wait..
  (Setelah sekitar 2 menit, **P** mencoba kedua fitur register dan login)
  18. **Y**: Sip, bagaimana tentang kedua fitur tersebut ?
- 19. **P**: Pertama sempat bingung sih karena gausah diisi kolomnya, tetapi secara alur nya bagus.
+ 19. **P**: Pertama sempat bingung sih karena gausah diisi kolomnya, terus registernya putih semua jadi kaget gitu tiba tiba terang, tetapi secara alur nya bagus.
  20. **Y**: Oke sip, ada saran lain ?
  21. **P**: Kalau saran sih, kan register jadi besar gitu sementara login kecil banget kotakannya, disamakan antara register dan login biar baguss gitu.
  22. **Y**: Oke, saran yang bermanfaat, sekarang lanjut untuk upload file ke Zippyshare, tapi gausah upload file beneran, karena belum bisa, langsung tombol sama seperti login.
@@ -145,14 +145,23 @@ On this section, it will contain transcript during usability evaluation. Bellow 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
-#### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+#### OBSERVATION 1 (Register Page)
+![Prototype Screen 1](img/observation.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: 
+   - [1#19] : First participant with number 19 dialog
+      "Pertama sempat bingung sih karena gausah diisi kolomnya, terus registernya putih semua jadi kaget gitu tiba tiba terang, tetapi secara alur nya bagus."
+   - [2#18] : Second participant with number 18 dialog
+      "Kalau boleh kasih saran nih, registernya dibuat kaya login saja biar ga bingung, tadi sempet kaya shock gitu pas register."
+ - **Feedback**: [2#18] Make Register feature using modal same as Login feature
+ - **Incidence**: 
+   - [1#19] Make participant surprised.
+   - [2#18] Make participant shocked.
+ - **Reason**: 
+   - [1#19] Homepage have a dark colors, and register have a very bright colors and make participant surprised.
+   - [2#18] Make participant shocked because register feature have different size from login feature.
+ - **Resolution**: Using suggestion from participant #2
+   - [2#18] Make Register feature using modal same as Login feature 
  
 #### OBSERVATION 2
 ![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
@@ -171,9 +180,7 @@ On this section, it will contain transcript during usability evaluation. Bellow 
  - **Incidence**: 
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
+
  ---
 
 ## Part B: Prototyping (again)
