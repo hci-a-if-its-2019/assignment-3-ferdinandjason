@@ -166,7 +166,7 @@ On this section, it will contain transcript during usability evaluation. Bellow 
    - [2#18] Make Register feature using modal same as Login feature 
  
 #### OBSERVATION 2 (Login Modal)
-![Prototype Screen 2](img/observation2.png)
+![Prototype Screen 2](img/observation2.PNG)
 
  - **Reference**: 
    - [1#21] : First participant with number 21 dialog \
@@ -177,7 +177,7 @@ On this section, it will contain transcript during usability evaluation. Bellow 
  - **Resolution**: None
  
 #### OBSERVATION 3 (Home Page)
-![Prototype Screen 3](img/observation3.png)
+![Prototype Screen 3](img/observation3.PNG)
 
  - **Reference**:  
   - [1#8] : First participant with number 8 dialog \
@@ -190,8 +190,8 @@ On this section, it will contain transcript during usability evaluation. Bellow 
  - **Resolution**: None
 
 #### OBSERVATION 4 (File Upload)
-![Prototype Screen 4](img/observation4.png)
-![Prototype Screen 4](img/observation5.png)
+![Prototype Screen 4](img/observation4.PNG)
+![Prototype Screen 4](img/observation5.PNG)
 
  - **Reference**:  
   - [1#25] : First participant with number 25 dialog \
@@ -204,7 +204,7 @@ On this section, it will contain transcript during usability evaluation. Bellow 
  - **Resolution**: None
 
 #### OBSERVATION 5 (Change Languange Modal)
-![Prototype Screen 5](img/observation6.png)
+![Prototype Screen 5](img/observation6.PNG)
 
  - **Reference**:  
   - [1#13] : First participant with number 13 dialog \
