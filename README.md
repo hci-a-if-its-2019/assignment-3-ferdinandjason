@@ -227,7 +227,8 @@ Below is a Sketch about resolution on [Observation 1](#observation-1-register-pa
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
-What I learned from usability evaluation is sometimes what we design, which is good for us, not necessarily good or comfortable for users who use our design. So usability evaluation is needed in order to evaluate our design, so that users are comfortable using our designs
+
+What I learned from usability evaluation is sometimes what we design, which is good or comfortable for us, not necessarily good or comfortable for users who use our design. So usability evaluation is needed in order to evaluate our design, so that users are more comfortable using our designs.
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
