@@ -219,19 +219,15 @@ On this section, it will contain transcript during usability evaluation. Bellow 
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
-
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+Below is a Sketch about resolution on [Observation 1](#observation-1-register-page).
+![Sketch of Refined Prototype](img/Lo%20Fi.jpg)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
+What I learned from usability evaluation is sometimes what we design, which is good for us, not necessarily good or comfortable for users who use our design. So usability evaluation is needed in order to evaluate our design, so that users are comfortable using our designs
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
