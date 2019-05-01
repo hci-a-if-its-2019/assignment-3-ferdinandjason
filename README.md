@@ -1,10 +1,10 @@
-# Usability Evaluation and Prototyping (again)
+# Usability Evaluation and Prototyping (again) on Zippyshare
 > Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
 > the participant from the previous Contextual Inquiry (CI) 
 > and an additional novice-participant with different demographics if possible.
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
-- [Usability Evaluation and Prototyping (again)](#usability-evaluation-and-prototyping-again)
+- [Usability Evaluation and Prototyping (again) on Zippyshare](#usability-evaluation-and-prototyping-again-on-zippyshare)
   - [Operating the Prototype](#operating-the-prototype)
   - [Part A: Usability Evaluation](#part-a-usability-evaluation)
     - [1. Brief Description of Participants](#1-brief-description-of-participants)
@@ -233,3 +233,5 @@ What I learned from usability evaluation is sometimes what we design, which is g
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+
+High Fidelity Interactive-Prototype : https://invis.io/J6RSQ7RYRTC
